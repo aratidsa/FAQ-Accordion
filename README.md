@@ -23,13 +23,16 @@ In this small project, build out this FAQ Accordion and get it looking as close 
   
 ### Screenshot
 - Desktop
+  ![screencapture-127-0-0-1-5500-index-html-2024-07-14-14_47_09](https://github.com/user-attachments/assets/68475401-fd46-477b-aa95-fa554a890f2c)
+
   
 - Mobile
+  
+  ![screencapture-127-0-0-1-5500-index-html-2024-07-14-14_47_33](https://github.com/user-attachments/assets/a50b5e77-37a9-4d8c-9737-4932d00246db)
 
 ### Links
-
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/aratidsa/FAQ-Accordion
+- Live Site URL: https://design-faq-accordion.netlify.app/
 
 ## My process
 
@@ -38,6 +41,5 @@ In this small project, build out this FAQ Accordion and get it looking as close 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
