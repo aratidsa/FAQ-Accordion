@@ -23,12 +23,13 @@ In this small project, build out this FAQ Accordion and get it looking as close 
   
 ### Screenshot
 - Desktop
-  ![screencapture-127-0-0-1-5500-index-html-2024-07-14-14_47_09](https://github.com/user-attachments/assets/68475401-fd46-477b-aa95-fa554a890f2c)
-
+  
+  ![screencapture-127-0-0-1-5500-index-html-2024-07-14-15_07_36](https://github.com/user-attachments/assets/dff36a3d-2ffa-45cf-83a0-c3167a700a6c)
   
 - Mobile
   
-  ![screencapture-127-0-0-1-5500-index-html-2024-07-14-14_47_33](https://github.com/user-attachments/assets/a50b5e77-37a9-4d8c-9737-4932d00246db)
+![screencapture-127-0-0-1-5500-index-html-2024-07-14-15_06_46](https://github.com/user-attachments/assets/6574e214-6b73-46c0-9e93-bf24936d24a3)
+
 
 ### Links
 - Solution URL: https://github.com/aratidsa/FAQ-Accordion
