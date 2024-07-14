@@ -59,4 +59,17 @@ displayQuestions.forEach(quest => {
         // Reset the current open answer
         currentOpenAnswer = null
     })
+
+     // Check if the current wrapper has the 'open' class (for the first answer)
+    if (wrapper.classList.contains('open')) {
+        plusImg.style.display = 'none'
+        minusImg.style.display = 'inline'
+        answer.style.display = 'block'
+        answer.style.marginBottom = '-6px'
+        currentOpenAnswer = answer
+    } else {
+        minusImg.style.display = 'none'
+        plusImg.style.display = 'inline'
+        answer.style.display = 'none'
+    }
 })
